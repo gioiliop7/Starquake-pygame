@@ -1,3 +1,4 @@
+<h1>Starquake PYGAME</h1>
 <h2>A school project with Tolis Voudromnianos.</h2>
 <p><br></p>
 <h3><strong>Gameplay</strong></h3>
