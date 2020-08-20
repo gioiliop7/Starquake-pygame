@@ -1,4 +1,4 @@
-<h1>Starquake PYGAME</h1>
+<h1>Starquake PYGAME v1</h1>
 <h2><span style="color: #000000;">A school project with <a style="color: #000000;" href="https://github.com/AVoudromnianos">Tolis Voudromnianos</a>.</span></h2>
 <p><br></p>
 <h3><strong>Gameplay</strong></h3>
